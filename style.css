@@ -1,0 +1,8 @@
+html{
+    background: url(/img/simon-abrams-k_T9Zj3SE8k-unsplash.jpg) bottom center;
+    background-size: cover;
+}
+
+#hero h1,h2{
+    color: white;
+}
